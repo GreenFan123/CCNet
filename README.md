@@ -26,7 +26,7 @@ To change this (_e.g._ if you are using a Kepler GPU), please edit the `CUDA_GEN
 
 Plesae download cityscapes dataset and unzip the dataset into `YOUR_CS_PATH`.
 
-Please download MIT imagenet pretrained [resnet101-imagenet.pth](http://sceneparsing.csail.mit.edu/model/pretrained_resnet/resnet101-imagenet.pth), and put it into `dataset` folder.
+Please download open source imagenet pretrained [resnet101-imagenet.pth](http://sceneparsing.csail.mit.edu/model/pretrained_resnet/resnet101-imagenet.pth), and put it into `dataset` folder.
 
 ### Training and Evaluation
 Training script.
